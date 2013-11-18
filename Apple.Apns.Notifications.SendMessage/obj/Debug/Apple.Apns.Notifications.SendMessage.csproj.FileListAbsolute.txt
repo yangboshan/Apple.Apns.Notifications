@@ -1,0 +1,9 @@
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\bin\Debug\Apple.Apns.Notifications.SendMessage.exe
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\bin\Debug\Apple.Apns.Notifications.SendMessage.pdb
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\bin\Debug\Apple.Apns.Notifications.dll
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\bin\Debug\Apple.Apns.Notifications.pdb
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\obj\Debug\Apple.Apns.Notifications.SendMessage.exe
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\obj\Debug\Apple.Apns.Notifications.SendMessage.pdb
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications.SendMessage\bin\Debug\Apple.Apns.Notifications.SendMessage.exe.config

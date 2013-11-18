@@ -1,0 +1,8 @@
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\bin\Debug\Apple.Apns.Notifications.dll
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\bin\Debug\Apple.Apns.Notifications.pdb
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\bin\Debug\JdSoft.Apns.Notifications.dll
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\bin\Debug\JdSoft.Apns.Notifications.pdb
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\obj\Debug\Apple.Apns.Notifications.dll
+C:\Documents and Settings\john.yang\My Documents\Visual Studio 2008\Projects\Apple.Apns.Notifications\Apple.Apns.Notifications\obj\Debug\Apple.Apns.Notifications.pdb
